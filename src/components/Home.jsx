@@ -9,7 +9,7 @@ const Home = () => {
         <div className="bg-white rounded-2xl shadow-xl p-8 md:p-12">
           <div className="text-center mb-12">
             <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-4">
-              Welcome to Synechrowd Foundation
+              Welcome to Synecrowd Foundation
             </h1>
             <div className="w-24 h-1 bg-indigo-600 mx-auto"></div>
           </div>
@@ -18,7 +18,7 @@ const Home = () => {
             <section className="mb-8">
               <h2 className="text-3xl font-semibold text-gray-800 mb-4">About Us</h2>
               <p className="text-gray-700 leading-relaxed mb-4">
-                Synechrowd Foundation is a charitable trust dedicated to making a positive impact 
+                Synecrowd Foundation is a charitable trust dedicated to making a positive impact 
                 in our communities. We believe in the power of collective action and the importance 
                 of giving back to society.
               </p>

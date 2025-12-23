@@ -62,7 +62,7 @@ const Header = () => {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
             <Link to="/home" className="text-2xl font-bold text-indigo-600 hover:text-indigo-700 transition">
-              Synechrowd Foundation
+              Synecrowd Foundation
             </Link>
           </div>
 

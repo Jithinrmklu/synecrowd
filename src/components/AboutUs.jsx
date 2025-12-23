@@ -18,7 +18,7 @@ const AboutUs = () => {
             <section className="mb-8">
               <h2 className="text-3xl font-semibold text-gray-800 mb-4">Who We Are</h2>
               <p className="text-gray-700 leading-relaxed mb-4">
-                Synechrowd Foundation is a registered charitable trust established with a vision 
+                Synecrowd Foundation is a registered charitable trust established with a vision 
                 to create positive social change and empower communities across the nation. Founded 
                 on the principles of compassion, integrity, and service, we have been working 
                 tirelessly to address critical social issues and improve the quality of life for 
@@ -35,7 +35,7 @@ const AboutUs = () => {
             <section className="mb-8">
               <h2 className="text-3xl font-semibold text-gray-800 mb-4">Our History</h2>
               <p className="text-gray-700 leading-relaxed mb-4">
-                Since our inception, Synechrowd Foundation has grown from a small community initiative 
+                Since our inception, Synecrowd Foundation has grown from a small community initiative 
                 to a recognized charitable organization. We started with a simple mission: to help those 
                 who need it most. Over the years, we have expanded our reach and impact, touching 
                 thousands of lives through various programs and initiatives.

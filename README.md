@@ -1,6 +1,6 @@
-# Synechrowd Foundation Website
+# Synecrowd Foundation Website
 
-A modern, responsive web application for the Synechrowd Foundation charitable trust.
+A modern, responsive web application for the Synecrowd Foundation charitable trust.
 
 ## Features
 

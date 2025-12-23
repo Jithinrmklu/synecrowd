@@ -91,8 +91,8 @@ const ContactUs = () => {
                 <div>
                   <h3 className="font-semibold text-gray-800 mb-1">Email</h3>
                   <p className="text-gray-600">
-                    info@synechrowdfoundation.org<br />
-                    contact@synechrowdfoundation.org
+                    info@Synecrowdfoundation.org<br />
+                    contact@Synecrowdfoundation.org
                   </p>
                 </div>
               </div>
