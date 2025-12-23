@@ -99,3 +99,4 @@ The app uses a mock OTP service for demonstration:
 - The app automatically redirects based on authentication and profile status
 - All routes are protected and require authentication
 
+# synecrowd
